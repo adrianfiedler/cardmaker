@@ -1,0 +1,68 @@
+{
+  "backgrounds": [
+    {
+      "id": "creme",
+      "name": "Creme Papier",
+      "file": "backgrounds/creme.png"
+    },
+    {
+      "id": "salbei",
+      "name": "Salbei Papier",
+      "file": "backgrounds/salbei.png"
+    }
+  ],
+  "decoSets": [
+    {
+      "id": "botanical",
+      "name": "Botanisch (Platzhalter)",
+      "dir": "deco/botanical",
+      "anchors": {
+        "topLeft": "top-left.png",
+        "topRight": "top-right.png",
+        "bottomLeft": "bottom-left.png",
+        "bottomRight": "bottom-right.png",
+        "oval": "oval.png"
+      }
+    }
+  ],
+  "banners": [],
+  "iconStyles": [
+    {
+      "id": "classic",
+      "name": "Klassisch (Platzhalter)",
+      "dir": "icons/classic"
+    }
+  ],
+  "accentColors": [
+    {
+      "id": "green",
+      "name": "Salbeigrün",
+      "value": "#3d5236"
+    },
+    {
+      "id": "forest",
+      "name": "Waldgrün",
+      "value": "#26401f"
+    },
+    {
+      "id": "plum",
+      "name": "Pflaume",
+      "value": "#5a2f47"
+    },
+    {
+      "id": "navy",
+      "name": "Marine",
+      "value": "#2a3a52"
+    },
+    {
+      "id": "rose",
+      "name": "Altrosa",
+      "value": "#8a4b57"
+    },
+    {
+      "id": "gold",
+      "name": "Ocker",
+      "value": "#8a6a2f"
+    }
+  ]
+}
